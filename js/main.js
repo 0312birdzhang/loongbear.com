@@ -198,11 +198,11 @@
 
 	  // google map
       function initMap() {
-        var chicago = {lat: 41.85, lng: -87.65};
+        var xintang = {lat: 23.126712, lng: -113.6079403};
         var indianapolis = {lat: 39.79, lng: -86.14};
 
         var map = new google.maps.Map(document.getElementById('gmap'), {
-          center: chicago,
+          center: xintang,
           scrollwheel: false,
           zoom: 7
         });
@@ -214,7 +214,7 @@
         // Set destination, origin and travel mode.
         var request = {
           destination: indianapolis,
-          origin: chicago,
+          origin: xintang,
           travelMode: 'DRIVING'
         };
 
