@@ -169,7 +169,7 @@ section {
     padding-bottom: 80px;
 }
 
-#karbar-service-section {
+#loongbear-service-section {
     padding-bottom: 50px;
 }
 
@@ -189,37 +189,37 @@ section {
     .section-title-padding {
         padding-top: 60px;
     }
-    #karbar-how-it-works-section {
+    #loongbear-how-it-works-section {
         padding-bottom: 50px;
     }
-    #karbar-service-section {
+    #loongbear-service-section {
         padding-bottom: 30px;
     }
     .why-choose-us {
         padding-top: 90px;
     }
-    #karbar-why-choose-section {
+    #loongbear-why-choose-section {
         padding-bottom: 50px;
     }
-    #karbar-team-section {
+    #loongbear-team-section {
         padding-bottom: 45px !important;
     }
     #testimonial-and-client .sec-padding {
         padding: 70px 0 0;
     }
-    #karbar-price-section {
+    #loongbear-price-section {
         padding-bottom: 45px;
     }
-    #karbar-footer-section .bottom {
+    #loongbear-footer-section .bottom {
         padding: 60px 40px 20px;
     }
-    #karbar-footer-section .subscribe-form {
+    #loongbear-footer-section .subscribe-form {
         margin-bottom: 25px;
     }
 }
 
 @media (max-width: 767px) {
-    #karbar-why-choose-section {
+    #loongbear-why-choose-section {
         padding-bottom: 25px;
     }
 }
@@ -999,9 +999,9 @@ nav.top-nav-collapse {
 
 ***/
 
-#karbar-why-choose-section {}
+#loongbear-why-choose-section {}
 
-#karbar-why-choose-section .title-line {
+#loongbear-why-choose-section .title-line {
     margin: 0px auto 5px auto;
 }
 
@@ -1232,7 +1232,7 @@ h5.less-mar-1 {
     .awesome-team-members .item-holder {
         margin-bottom: 15px;
     }
-    #karbar-team-section {
+    #loongbear-team-section {
         padding-bottom: 75px;
     }
 }
@@ -1799,7 +1799,7 @@ input[type="submit"] {
 
 ***/
 
-#karbar-footer-section {
+#loongbear-footer-section {
     padding-bottom: 0px;
     background: #525252;
 }
